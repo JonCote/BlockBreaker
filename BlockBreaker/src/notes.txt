@@ -1,0 +1,18 @@
+/***************** Styling notes **************/
+lives font: Verdana Bold Italic
+
+
+
+
+/***************** Bugs to fix ****************/
+
+//Not yet solved
+- Collision between ball and paddle sometimes does not work and ball will pass throw paddle or multi bounce.
+    - Solution: 
+
+
+//Not yet solved
+- bricks having 2 lives and cracking after first hit, then disappearing after second hit.
+    - Solution: 
+
+
